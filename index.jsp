@@ -106,7 +106,7 @@
   out.print("<h3>"+ getMessage("validatingAxis") +"</h3>");
 
   out.print(getMessage("validationNote00") +"<p/>");
-  out.print(getMessage("validationNote01"));
+  out.print(getMessage("validationNote01-54546 changes check"));
 %>
 </body>
 </html>
