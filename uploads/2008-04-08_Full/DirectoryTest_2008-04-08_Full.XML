@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AdminMessage version="1.0" xmlns="http://www.surescripts.com/directories">	<Header>		<To>mailto:sssdir.tp@surescripts.com</To>		<From>mailto:glenwd.tp@surescripts.com</From>		<MessageID>73723870</MessageID>		<SentTime>2008-04-08T04:44:07.0Z</SentTime>		<Authentication>			<LoginID>smanickaraj</LoginID>			<Password>man5550!</Password>		</Authentication>	</Header>	<Body>		<DirectoryDownloadFullPharmacyURL>			<PartnerAccountID>243</PartnerAccountID>			<VersionID>3</VersionID>		</DirectoryDownloadFullPharmacyURL>	</Body></AdminMessage>
